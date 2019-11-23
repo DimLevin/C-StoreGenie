@@ -1,0 +1,76 @@
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\bin\Debug\MultiFormsTest.exe.config
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\bin\Debug\MultiFormsTest.exe
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\bin\Debug\MultiFormsTest.pdb
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\obj\Debug\StoreGenie.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\obj\Debug\MultiFormsTest.FormLogin.resources
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\obj\Debug\MultiFormsTest.FormMain.resources
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\obj\Debug\MultiFormsTest.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\obj\Debug\MultiFormsTest.UserControlLogin.resources
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\obj\Debug\StoreGenie.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\obj\Debug\StoreGenie.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\obj\Debug\MultiFormsTest.exe
+C:\Users\Dmitry\Desktop\StoreGenie\MultiFormsTest\obj\Debug\MultiFormsTest.pdb
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.csprojAssemblyReference.cache
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.csproj.GenerateResource.cache
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.csproj.CoreCompileInputs.cache
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormLogin.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormMain.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlLogin.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\bin\Debug\StoreGenie.exe.config
+C:\PROJECTS\C#\StoreGenie\StoreGenie\bin\Debug\StoreGenie.exe
+C:\PROJECTS\C#\StoreGenie\StoreGenie\bin\Debug\StoreGenie.pdb
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.Properties.Resources.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.exe
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.pdb
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlData.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormView.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlPrices.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormDialog.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlClient.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlSupplier.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlProduct.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.csprojAssemblyReference.cache
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.FormDialog.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.FormLogin.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.FormMain.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.FormView.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.Properties.Resources.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.UserControlClient.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.UserControlData.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.UserControlLogin.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.UserControlOrderSearch.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.UserControlPrices.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.UserControlProduct.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.UserControlSupplier.resources
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.csproj.GenerateResource.cache
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.csproj.CoreCompileInputs.cache
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.exe
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\obj\Debug\StoreGenie.pdb
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\bin\Debug\StoreGenie.exe.config
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\bin\Debug\StoreGenie.exe
+C:\PROJECTS\C#\StoreGenie - Copy\StoreGenie\bin\Debug\StoreGenie.pdb
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlOrderAdd.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlOrderSearch.resources
+C:\PROJECTS\C#\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormReport.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\bin\Debug\StoreGenie.exe.config
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\bin\Debug\StoreGenie.exe
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\bin\Debug\StoreGenie.pdb
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.csprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormDialog.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormLogin.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormMain.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormReport.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.FormView.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlClient.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlData.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlLogin.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlOrderAdd.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlOrderSearch.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlPrices.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlProduct.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.UserControlSupplier.resources
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.exe
+C:\Users\Dmitry\Desktop\StoreGenie\StoreGenie\obj\Debug\StoreGenie.pdb
